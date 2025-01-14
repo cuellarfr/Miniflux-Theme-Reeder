@@ -20,12 +20,12 @@ Copy [style.min.css](https://github.com/rootknight/Miniflux-Theme-Reeder/blob/ma
 
 一Some Suggestions
 
-- You can view the top of style.css for custom configuration
-- Choose the theme System - Sans Serif to follow the system's light/dark mode
+- You can view style.css for custom configuration
+- Choose the theme 'System - Sans Serif' to follow the system's light/dark mode
 - Set the number of articles per page to 999999 to hide the pagination buttons
 - Use PWA mode on mobile (install to home screen)
   - Set PWA display mode to standalone
-  - For Android, use Chrome/Edge to add to the phone
+  - For Android, use Chrome/Edge to add to the home screen
   - For iPhone, use Safari to add to the home screen
 
 # Screenshots
