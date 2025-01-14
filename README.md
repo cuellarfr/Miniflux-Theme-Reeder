@@ -1,32 +1,34 @@
-# miniflux-theme-reeder（仿 Reeder）
+# miniflux-theme-reeder
 
-[Miniflux v2](https://github.com/miniflux/v2) 的自定义主题
+This is just a translation of the [excellent theme from rootknight](https://github.com/rootknight/Miniflux-Theme-Reeder) with some optimizations for e-ink displays.
 
-- 使用 css 原生嵌套
-- 支持自定义配置
-- 基于官方 css 修改
-- 移除冗余操作
-- 适配移动端
-- 适配 dark 暗黑模式
-- 适配 Miniflux 版本：2.1.1
+[Miniflux v2](https://github.com/miniflux/v2) Custom Theme for Miniflux v2
 
-# 使用
+- Uses native CSS nesting
+- Supports custom configuration
+- Based on official CSS modifications
+- Removes redundant operations
+- Adapts to mobile devices
+- Supports dark mode
+- Compatible with Miniflux version: 2.1.1
+
+# Usage
 
 <img src="./screenshots/setting.png" style="flex:1; margin: 5px;width:30%">
 
-复制 [style.min.css](https://github.com/rootknight/Miniflux-Theme-Reeder/blob/main/style.mini.css) 到 设置-自定义 CSS
+Copy [style.min.css](https://github.com/rootknight/Miniflux-Theme-Reeder/blob/main/style.mini.css) to Settings - Custom CSS
 
-一些建议
+一Some Suggestions
 
-- 可查看 style.css 顶部进行自定义配置
-- 主题选择 `System - Sans Serif` 可跟随系统切换 light/dark 模式
-- 设置 `每页文章数` 为 `999999` 以隐藏 分页按钮
-- 手机端使用 PWA 模式(安装到桌面使用)
-  - `PWA显示模式`设置为 `独立（standalone）`
-  - Android 使用 Chrome/Edge 添加至手机
-  - iPhone 使用 Safari 添加到屏幕
+- You can view the top of style.css for custom configuration
+- Choose the theme System - Sans Serif to follow the system's light/dark mode
+- Set the number of articles per page to 999999 to hide the pagination buttons
+- Use PWA mode on mobile (install to home screen)
+  - Set PWA display mode to standalone
+  - For Android, use Chrome/Edge to add to the phone
+  - For iPhone, use Safari to add to the home screen
 
-# 截图
+# Screenshots
 
 <div style="display:flex;">
     <img src="./screenshots/unread.png" style="flex:1; margin: 5px;width:20%;height:auto">
