@@ -14,7 +14,7 @@ This is just a translation of the [excellent theme from rootknight](https://gith
 
 # Usage
 
-<img src="./screenshots/setting.png" style="flex:1; margin: 5px;width:30%">
+<img src="./screenshots/pc-article-dark.png" style="flex:1; margin: 5px;width:30%">
 
 Copy [style.min.css](https://github.com/rootknight/Miniflux-Theme-Reeder/blob/main/style.mini.css) to Settings - Custom CSS
 
